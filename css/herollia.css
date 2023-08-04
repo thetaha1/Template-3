@@ -91,7 +91,7 @@ a {
   position: relative;
 }
 .header .logo {
-  color: var(--main-color);
+  color: var(--clr-primary-400, #2196f3);
   font-size: 26px;
   font-weight: bold;
   height: 72px;
@@ -148,7 +148,7 @@ a {
   transition: var(--main-transition);
 }
 .header .main-nav > li > a:hover {
-  color: var(--main-color);
+  color: var(--clr-primary-400, #2196f3);
   background-color: #fafafa;
 }
 .header .main-nav > li > a:hover::before {
