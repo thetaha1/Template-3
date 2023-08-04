@@ -103,10 +103,10 @@ a {
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
 }
-.main-title:hover::before {
+/* .main-title:hover::before {
   z-index: -1;
   animation: left-move var(--dt-main, 0.3) ease-in-out forwards;
-}
+} */
 /* End Components */
 /* Start Header */
 .header {
